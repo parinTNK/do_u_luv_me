@@ -29,7 +29,7 @@ function Page() {
             alt="luv1" 
             className="w-52 sm:w-64 mb-6"
           />
-          <h1 className="text-3xl sm:text-4xl text-pink-500 text-center font-bold mb-8">I love you too 1111 2222 33333 44444❤️</h1>
+          <h1 className="text-3xl sm:text-4xl text-pink-500 text-center font-bold mb-8">I love you too 001 002 003 004</h1>
         </>
       ) : (
         <>
