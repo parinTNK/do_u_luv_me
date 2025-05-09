@@ -25,11 +25,11 @@ function Page() {
       {isLoved ? (
         <>
           <img 
-            src="https://media.tenor.com/tO85mO366xYAAAAj/amore-love-you.gif" 
+            src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RhbzZ2cDBmcW0zb3Q4MXdyeGl4MWlrbDIyaTg4NnNzMTFlMnl5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v4UdKrxhIiB1QFmO6b/giphy.gif" 
             alt="luv1" 
             className="w-52 sm:w-64 mb-6"
           />
-          <h1 className="text-3xl sm:text-4xl text-pink-500 text-center font-bold mb-8">I love you too 001 002 003 004</h1>
+          <h1 className="text-3xl sm:text-4xl text-pink-500 text-center font-bold mb-8">YAAAAAAAAAAA!!!!!</h1>
         </>
       ) : (
         <>
